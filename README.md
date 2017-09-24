@@ -41,9 +41,9 @@ In this project, Python-3.5.2 is used with following packages:
 </p>
 
 ## About Udacity's Driving Simulator
-Driving Simulator is like a video game. In this simulator we can control a car by using our mouse or keyboard buttons or by our trained model, similar to "need for speed" car race game. This simulator have two modes:
-1. Training Mode: In this mode we can control car by using our mouse or keyboard. We can start recording by pressing ctrl+r keys. If recording is started, then this simulator keep saving images and angle of our steering angle while we driving the car by using mouse or keyboard buttons. We can use this saved data (images and steering angle) for training our CNN model.
-2. Simulator Mode: This mode uses the trained CNN model to control the car. It keep passing images as input to model and get steering angle as predicted output. As per the output, it takes car left or right automatically.
+Driving Simulator is like a video game. In this simulator we can control a car by using our mouse or keyboard buttons or by our trained model. This simulator have two modes:
+1. Training Mode: In this mode we can control car by using our mouse or keyboard (similar to "need for speed" car race game). We can start recording by pressing ctrl+r keys. If recording is started, then this simulator keep saving images and steering angle while we drive the car by using mouse or keyboard buttons. We can use this saved data (images and steering angle) for training our CNN model.
+2. Simulator Mode: This mode uses the trained CNN model to control the car. It keep passing images as input to CNN model and get predicted steering angle as output. As per the output, it takes car left or right automatically.
 
 ## Model Architecture and Training Strategy
 1. Convolutional Neural Network (CNN) is used here. This network is coded in Python (by using Keras API). Following is the architecture of CNN:
