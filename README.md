@@ -1,7 +1,7 @@
 # Udacity Self Driving Car Nanodegree: Cloning Driving Behaviour
 
 <p align="center">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_cloning_driving_behaviour/blob/master/simulation_sample_output/video.gif">
 </p>
 
 ## Objective
@@ -18,7 +18,7 @@ Above is the sample output of this project.
 ### Self Driving Cars
 Self Driving Cars are unmanned ground vehicles, also known as Autonomus Cars, Driverless Cars, Robotic Cars. 
 <p align="center">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_cloning_driving_behaviour/blob/master/images/self-driving-car.jpg">
 </p>
 
 ### Technologies Used
@@ -36,7 +36,9 @@ In this project, Python-3.5.2 is used with following packages:
 2. moviepy - 0.2.3.2
 3. cv2 - 3.0.0 (Computer Vision)
 4. keras - 2.0.8
-[technologies-used]
+<p align="center">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_cloning_driving_behaviour/blob/master/technologies_used/technologies_used.png">
+</p>
 
 ## About Udacity's Driving Simulator
 
@@ -60,6 +62,13 @@ In this project, Python-3.5.2 is used with following packages:
 	10. MSE (Mean Square Error) for training data after 75 epochs is: 0.0076 and R-square is: 0.8185.
 	11. MSE for validation data is: 0.0211 and R-square is: -0.6917
 	12. One line plot (val_plot.png) is included here. This plot is showing the closeness between actual steering value and predicted steering value for validation data.
-	[plot]
+	<p align="center">
+	<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_cloning_driving_behaviour/blob/master/plots/val_plot.png">
+	</p>
 	13. Following are the sample images of training data set:
-	[images]
+	<p align="center">
+	<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_cloning_driving_behaviour/blob/master/sample_images/center_2017_07_24_21_10_01_956.jpg">
+	<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_cloning_driving_behaviour/blob/master/sample_images/center_2017_07_24_21_11_15_755.jpg">
+	<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_cloning_driving_behaviour/blob/master/sample_images/left_2017_07_15_16_28_17_457.jpg">
+	<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_cloning_driving_behaviour/blob/master/sample_images/right_2017_07_15_16_28_23_877.jpg">
+	</p>
