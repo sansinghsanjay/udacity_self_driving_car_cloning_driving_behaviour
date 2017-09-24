@@ -66,7 +66,7 @@ Driving Simulator is like a video game. In this simulator we can control a car b
 	11. MSE for validation data is: 0.0211 and R-square is: -0.6917
 	12. One line plot (val_plot.png) is included here. This plot is showing the closeness between actual steering value and predicted steering value for validation data.
 	<p align="center">
-	<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_cloning_driving_behaviour/blob/master/plots/val_plot.png">
+	<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_cloning_driving_behaviour/blob/master/plots/line_plot.png">
 	</p>
 	13. Following are the sample images of training data set:
 	<p align="center">
