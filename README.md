@@ -63,7 +63,7 @@ Driving Simulator is like a video game. In this simulator we can control a car b
 	8. 'steering' angles for left and right images are incremented and decremented by 0.2, respectively.
 	9. 10% of all center images are used for validation.
 	10. MSE (Mean Square Error) for training data after 75 epochs is: 0.0076 and R-square is: 0.8185.
-	11. MSE for validation data is: 0.0211 and R-square is: -0.6917
+	11. MSE for validation data is: 0.0211 and R-square is: 0.6917
 	12. One line plot (val_plot.png) is included here. This plot is showing the closeness between actual steering value and predicted steering value for validation data.
 	<p align="center">
 	<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_cloning_driving_behaviour/blob/master/plots/line_plot.png">
